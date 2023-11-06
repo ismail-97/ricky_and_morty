@@ -1,4 +1,4 @@
-#A webpage that introduce information on Ricky And Morty animated sitcom episodes and characters.
+# A webpage that introduce information on Ricky And Morty animated sitcom episodes and characters.
 
 # Getting Started with Create React App
 
